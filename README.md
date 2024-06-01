@@ -1,6 +1,7 @@
 # movie-recommendation
 ```
 git clone https://github.com/allenw415/movie-recommendation.git
+cd movie-recommendation
 ```
 ## Install dependencies
 1. Create a python virtual environment
