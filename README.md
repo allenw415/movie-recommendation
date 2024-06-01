@@ -7,7 +7,7 @@ git clone https://github.com/allenw415/movie-recommendation.git
    ```
    python -m venv env
    ```
-2. activate python virtual environment
+2. Activate python virtual environment
    On Windows
    ```
    ./env/Scripts/activate
